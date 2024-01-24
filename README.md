@@ -18,6 +18,6 @@ This repository contains SQL files related to the employee database management s
 
 ### Entity Relationship Diagram (ERD)
 
-- **Location**: [EmployeeSQL/erd.png]
+- **Location**: [EmployeeSQL/ER Diagram.png]
 - **Source**: [Visual representation of the database structure]
 
